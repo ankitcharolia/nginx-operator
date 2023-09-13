@@ -1,0 +1,4 @@
+## Append samples of your project ##
+resources:
+- nginx_v1alpha1_nginx.yaml
+#+kubebuilder:scaffold:manifestskustomizesamples
